@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "shawadoversion2",
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
+    "ip": "Sushant39T.aternos.me",
+    "port": 42729,
     "version": "1.21.1"
   },
   "position": {
